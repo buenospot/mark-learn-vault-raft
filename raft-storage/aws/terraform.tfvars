@@ -10,7 +10,7 @@ availability_zones = "us-west-1a"
 
 # AWS EC2 Key Pair
 # @see https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
-key_name = "learn-vault-key"
+key_name = "mark-learn-vault-key"
 
 # Specify a name here to tag all instances
 # default: 'learn-vault-raft_storage'
